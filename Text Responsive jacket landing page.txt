@@ -1,0 +1,47 @@
+========== HEADER & NAV ==========
+✅.nav__link
+Home - Categories - About Us - Special - Contact
+
+
+========== SECTION HOME ==========
+✅.home__name ✅.home__description ✅.home__price
+Resistance
+
+Jackets designed to withstand anything. Durable materials, 
+reinforced seams, and wind and rain protection to accompany 
+you through any challenge.
+
+$105.00
+
+-----
+
+Comfy Snug
+
+Softness you feel from the first moment. These jackets hug 
+your body with lightweight warmth, perfect for cold days 
+without sacrificing style.
+
+$99.00
+
+-----
+
+Relaxed Fit
+
+Uncompromising comfort with a relaxed fit that gives you freedom 
+of movement. Ideal for a casual, modern look that adapts to your 
+daily routine.
+
+$110.00
+
+-----
+
+Protective Type
+
+More than a jacket, a barrier against the weather. Designed to offer 
+maximum protection with thermal and waterproof technology, keeping 
+you safe.
+
+$135.00
+
+✅.home__button
+Buy Now
